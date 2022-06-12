@@ -6,3 +6,44 @@ But Not ok All
 * 8 8 * 8 8 *
 --------------
 --------------
+
+
+Immediate openings for Devops Engineer for one of our Product based client
+Experience required for the Job: 5 - 9 years
+Job Location: Bangalore/Bengaluru, Pune
+
+
+Apply Now    Reply
+
+Dear Vijayananda Patil,
+
+Hi,
+Hope you are doing great!!!
+Shell Info Technologies Pvt Ltd.., a leading enterprise business and technology solutions partner for medium and large global customers, is seeking experienced professionals, who thrive on challenge and desire to make a real difference. With an environment of extraordinary innovation and unprecedented growth, this is an exciting opportunity for a self-starter who enjoys working in a quality-oriented, fast-paced, team environment.
+Skill: DevOps Engineer
+DevOps Engineer Requirements
+● Possess a Bachelor’s degree in Computer Science, Engineering, or relevant field.
+ ● Should have 5+ years experience as a DevOps Engineer or equivalent software-engineering role
+● Must have Linux/Unix administration
+● Should be an expert in code deployment tools (Puppet, Ansible, Terraform and Chef)
+ ● Should be an expert in container technologies like Docker and Kubernetes
+● Should be an expert of Automation/configuration management using SaaS-based CI/CD services (TravisCI, etc.)
+● Should have prior experience in maintaining Java web application, Agile/Scrum work environment and development process
+ ● Prior experience in network, server, and application-status monitoring
+ ● Possess a strong command of software-automation production systems (Jenkins and Selenium)
+ ● Exhibit expertise in software development methodologies
+ ● Should have working knowledge of Python and known DevOps tools like Git and GitHub
+ ● Should have a working knowledge of databases and SQL (Structured Query Language) or NoSQL
+ ● Possess a problem-solving attitude
+● Can work independently and as part of a team
+ Location : Bangalore, Pune Currently WFH Ja
+Note:If you share interested share your updated resume along with below details to prasanna@shellinfotech.com
+
+
+
+
+
+
+
+
+
